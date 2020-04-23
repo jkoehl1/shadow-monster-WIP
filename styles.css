@@ -1,0 +1,117 @@
+body {
+  margin: 0px;
+
+}
+
+h3 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: serif;
+  position: absolute;
+  top: 800px;
+  left: 5px;
+}
+
+#page14 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+
+}
+
+#page2 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: -15px;
+  left: 528px;
+
+}
+
+#page3 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: -15px;
+  left: 680px;
+}
+
+#page4 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 270px;
+  left: 680px;
+}
+
+#page5 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 170px;
+  left: 700px;
+}
+
+#page6 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 400px;
+  left: 690px;
+}
+
+#page7 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 325px;
+  left: 385px;
+}
+
+#page8 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 470px;
+  left: 460px;
+}
+
+#page9 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 240px;
+  left: 435px;
+}
+
+#page10 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 80px;
+  left: 600px;
+}
+
+#page11 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 80px;
+  left: 670px;
+}
+
+#page12 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 590px;
+  left: 720px;
+}
+
+#page13 {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 590px;
+  left: 435px;
+}
